@@ -1,3 +1,4 @@
+#!/usr/bin/evn node
 import inquirer from 'inquirer';
 import chalk from 'chalk';
 import { createSpinner } from 'nanospinner';
